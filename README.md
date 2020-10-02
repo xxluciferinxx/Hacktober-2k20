@@ -8,4 +8,3 @@ For your commit to be successfully accepted and merged, you have to do a good an
 - Properly Organise your Content.
 - Commit only neccessary changes.
 - Unneccessary commits will be rejected.
-
