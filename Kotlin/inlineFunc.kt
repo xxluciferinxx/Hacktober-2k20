@@ -1,4 +1,4 @@
-inline fun <T> printlist(body: () -> List<T>) { println(body().map{it}) }
+inline fun <T> printlist(body: () -> List<T>) { println(body()) }
 
 fun main() {
     printlist(fun():List<Any>{
